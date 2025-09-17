@@ -152,3 +152,11 @@ This project is a passion-driven initiative to reshape education by introducing 
 
 This project is licensed under the MIT License – feel free to use and modify it.
 ---
+
+**Author**
+
+**Name:** Jeevan Ramesh Jadhav
+
+**Email:** jeevanj020604@gmail.com
+
+---

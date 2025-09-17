@@ -91,7 +91,10 @@ npm install
 # Start the development server
 npm run dev
 
-📱 Mobile App (Coming Soon)
+---
+
+## 📱 Mobile App (Coming Soon)
+
 The student-side mobile application (separate repository) will provide:
 
 Attendance confirmation.
@@ -104,7 +107,8 @@ Personalized guidance during free slots.
 
 ---
 
-🤝 Contribution
+## 🤝 Contribution
+
 Contributions are welcome! If you’d like to collaborate:
 
 Fork this repo.
@@ -117,7 +121,8 @@ Open a Pull Request.
 
 ---
 
-📌 Roadmap
+## 📌 Roadmap
+
  Attendance with QR code distribution.
 
  Class scheduling and calendar.
@@ -134,11 +139,13 @@ Open a Pull Request.
 
  ---
 
-💡 Motivation
+## 💡 Motivation
+
 This project is a passion-driven initiative to reshape education by introducing automation and structure into everyday teaching. By bridging the gap between teachers’ tasks and students’ needs, this platform aims to create a more productive, guided, and innovative learning environment.
 
 ---
 
-📜 License
+## 📜 License
+
 This project is licensed under the MIT License – feel free to use and modify it.
 ---

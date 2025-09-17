@@ -77,7 +77,9 @@ This project is being built out of passion for **innovation in education technol
 - Node.js (>=18.x)  
 - npm or yarn  
 
-### Installation  
+### Installation 
+
+```bash
 
 # Clone the repository
 git clone https://github.com/your-username/teacher-dashboard.git
@@ -91,7 +93,7 @@ npm install
 # Start the development server
 npm run dev
 
----
+```
 
 ## 📱 Mobile App (Coming Soon)
 

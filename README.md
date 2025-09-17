@@ -94,6 +94,7 @@ npm install
 npm run dev
 
 ```
+---
 
 ## 📱 Mobile App (Coming Soon)
 

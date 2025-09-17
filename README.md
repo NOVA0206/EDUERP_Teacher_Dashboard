@@ -79,7 +79,6 @@ This project is being built out of passion for **innovation in education technol
 
 ### Installation  
 
-``bash
 # Clone the repository
 git clone https://github.com/your-username/teacher-dashboard.git
 
@@ -92,17 +91,6 @@ npm install
 # Start the development server
 npm run dev
 
-``
-Project Structure
-php
-Copy code
-├── components/     # Reusable UI components
-├── pages/          # Next.js pages (Dashboard, Attendance, Schedule, etc.)
-├── public/         # Static assets
-├── screenshots/    # Project screenshots for README
-├── styles/         # TailwindCSS styling
-├── utils/          # Helper functions
-└── README.md
 📱 Mobile App (Coming Soon)
 The student-side mobile application (separate repository) will provide:
 
@@ -114,6 +102,8 @@ Assignment submissions.
 
 Personalized guidance during free slots.
 
+---
+
 🤝 Contribution
 Contributions are welcome! If you’d like to collaborate:
 
@@ -124,6 +114,8 @@ Create a new branch (feature/your-feature).
 Commit your changes.
 
 Open a Pull Request.
+
+---
 
 📌 Roadmap
  Attendance with QR code distribution.
@@ -140,8 +132,12 @@ Open a Pull Request.
 
  AI-based personalized study suggestions.
 
+ ---
+
 💡 Motivation
 This project is a passion-driven initiative to reshape education by introducing automation and structure into everyday teaching. By bridging the gap between teachers’ tasks and students’ needs, this platform aims to create a more productive, guided, and innovative learning environment.
+
+---
 
 📜 License
 This project is licensed under the MIT License – feel free to use and modify it.
